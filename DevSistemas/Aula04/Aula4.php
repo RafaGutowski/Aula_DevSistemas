@@ -44,7 +44,7 @@
     } while ($var < 100);
     ?>
 
-    <h2>--- LISTA / ARRAY ---</h2>
+    <h2>-- LISTA / ARRAY ---</h2>
 
     <?php
 
