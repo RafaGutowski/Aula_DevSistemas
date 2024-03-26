@@ -14,4 +14,5 @@
 $primeiro = $_GET[ 'num' ];
 $segundo = $_GET[ 'num1' ];
 
+
 ?>
